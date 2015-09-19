@@ -1,0 +1,5 @@
+package org.proyecto1.domain;
+
+public class PostEntity {
+
+}

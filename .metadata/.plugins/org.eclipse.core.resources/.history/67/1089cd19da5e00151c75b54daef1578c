@@ -1,0 +1,11 @@
+package org.proyecto1.domain;
+
+/**
+ * Mapeado de entidad de Post
+ * 
+ * @author Gustavo
+ * @version 19/09/15
+ */
+public class PostEntity {
+
+}

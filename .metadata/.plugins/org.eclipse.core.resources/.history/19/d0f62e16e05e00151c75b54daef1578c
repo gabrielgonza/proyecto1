@@ -1,0 +1,13 @@
+package org.proyecto1.controller;
+
+import org.proyecto1.repository.PostRepository;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class Home {
+
+	@Autowired
+	private PostRepository postRepository;
+
+}
